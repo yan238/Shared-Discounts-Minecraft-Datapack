@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Makes villager trade discounts from zombification and curing apply to every player",
+    "min_format": 121,
+    "max_format": 121
+  }
+}
